@@ -21,7 +21,7 @@ export default function Home() {
     "https://res.cloudinary.com/dwemivxbp/image/upload/v1760200621/file_3_kprtqe.avif",
     "https://res.cloudinary.com/dwemivxbp/image/upload/v1760200707/file_4_jihkzf.avif",
     "https://res.cloudinary.com/dwemivxbp/image/upload/v1760200763/file_5_zsdded.avif",
-    "https://res.cloudinary.com/dwemivxbp/image/upload/v1760200863/file_6_pbdaba.avif",
+   
   ];
 
   const car = {
