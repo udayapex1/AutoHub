@@ -63,7 +63,7 @@ export default function Home() {
             <div className="flex items-end justify-between mb-4">
               <div>
                 <p className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2 animate-in fade-in slide-in-from-left duration-700 delay-100">
-                  Premium Luxury Sedan
+                  Premium Luxury sedan
                 </p>
                 <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-2 animate-in fade-in slide-in-from-left duration-700 delay-200">
                   {car.model}
